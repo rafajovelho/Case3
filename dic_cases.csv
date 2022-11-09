@@ -1,0 +1,8 @@
+accountid,Chave primária da tabela
+date_ref,Data do chamado
+channelid,Canal do chamado (chat = 1; telefone = 2; e-mail = 3)
+waitingtime,Tempo de espera para atendimento (segundos)
+missed,Flag de chamado atendido
+pesquisa_de_satisfa_o__c,Flag de pesquisa de satisfação preenchida
+assunto,Assunto do chamado
+Id,Chave da tabela

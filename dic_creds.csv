@@ -1,0 +1,6 @@
+Coluna,Descrição
+cred_date,Data de credenciamento
+shipping_address_city,Endereço de entrega – cidade
+shipping_address_state,Endereço de entrega – estado
+max_machine,Produto adquirido
+accountid,Chave secundária da tabela
